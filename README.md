@@ -11,7 +11,7 @@ This is a simple RESTful API for managing a todo list using FastAPI. It does not
 
 2. Navigate to the project directory:
    ```bash
-   cd todo-api-fastapi
+   cd todo-api
    ```
 
 3. Create a virtual environment (optional but recommended):
